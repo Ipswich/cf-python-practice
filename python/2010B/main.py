@@ -1,0 +1,1 @@
+print(6 - sum([int(x) for x in input().strip().split()]))
